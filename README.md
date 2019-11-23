@@ -1,5 +1,5 @@
 # DistributedPasswordCracker
-Java program that brute forces on MD5 encrypted text to decrypt it.
+Java program that bruteforces on MD5 encrypted text to decrypt it.
 
 The User enters the password and the server's IP
 
